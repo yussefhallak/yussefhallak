@@ -1,28 +1,17 @@
 # Yussef Omar Hallak
 
-**Mechatronics Engineering Student | Control & Automation | Embedded Systems | Robotics**
+Control and Automation Engineering student at UFSM, Brazil, and undergraduate research fellow at the GARRA Robotics Lab. I build intelligent machines, from the embedded hardware to the AI that makes them act on their own.
 
-Undergraduate in Control and Automation Engineering at UFSM (Universidade Federal de Santa Maria). Head of the Electrical Subsystem at Fórmula UFSM (FSAE), researcher in robotics at GARRA Lab.
+We're living through the fastest technological shift in history, and I intend to build at its edge.
 
-## 🔧 Tech Stack
+## Selected work
 
-- **Languages:** Python, C/C++, MATLAB
-- **Embedded:** STM32, ESP32, Arduino, PCB Design (EasyEDA Pro)
-- **Robotics:** ROS2, Gazebo, MediaPipe, Computer Vision
-- **CAD/CAE:** SolidWorks, Blender
-- **Tools:** Git, Linux (Ubuntu), EasyEDA
-- **Research:** Machine Learning, EEG Signal Processing, BCI
+- **[Arca](https://github.com/yussefhallak/arca)**: 2nd place worldwide, Open Agent Hackathon 2026. A multi-agent AI system for disaster response that coordinates flood rescue, with a human in charge of every decision. [Video](https://github.com/yussefhallak/arca/releases/download/v1.0/Arca_walkthrough.mp4).
+- **[UancaBot](https://github.com/yussefhallak/uancabot)**, GARRA Robotics Lab: a ROS 2 mobile robot platform for autonomous navigation and human-robot interaction. I work across the whole robot, from hardware and control to the software that lets it understand people.
+- **[Ipê](https://github.com/yussefhallak/ipe)**, HackaTruck MakerSpace: an iOS app that guides people with Alzheimer's through their day and keeps their families close, built on SwiftUI and IBM Cloud.
+- **Formula UFSM**, Head of Electrical & Electronics: led every electrical and embedded system on the race car. 5th nationally at Formula SAE Brasil, and part of the team that set the acceleration record of the Americas.
+- **[Brain-controlled robotic prosthetics](https://github.com/yussefhallak/bci-prosthetics)**, independent research: a non-invasive brain-computer interface that turns the intention to grasp into the movement of a robotic arm. I build the machine learning that decodes the EEG signals.
 
-## 🏎️ Highlights
+Open to remote internships in robotics, embedded systems and applied AI.
 
-- **Fórmula UFSM (FU-25 & FU-26):** Head of Electrical Subsystem — PDM (Power Distribution Module), Wiring Harness, DAQ systems, CAN servico, MoTeC M800 integration.
-- **GARRA Lab (IC):** CuscoBot v2 — mobile robot for visually impaired guidance using ROS 1 and computer vision.
-- **Neurotechnology Research:** Machine learning for EEG-based prosthetic arm control.
-
-## 📚 Education
-
-- **B.Eng. Control & Automation Engineering** — UFSM (2025–present)
-
----
-
-*Always building at the intersection of hardware, software, and real-world systems.*
+[LinkedIn](https://linkedin.com/in/yussefhallak) · yussefomarh@gmail.com
