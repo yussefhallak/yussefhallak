@@ -8,7 +8,7 @@ We're living through the fastest technological shift in history, and I intend to
 <tr>
 <td width="33%" align="center"><a href="https://github.com/yussefhallak/arca"><img src="https://raw.githubusercontent.com/yussefhallak/arca/main/img/s7.jpg" alt="Arca"></a><br><b>Arca</b><br><sub>AI agents for flood rescue · 2nd worldwide</sub></td>
 <td width="33%" align="center"><a href="https://github.com/yussefhallak/bci-prosthetics"><img src="https://raw.githubusercontent.com/yussefhallak/bci-prosthetics/main/img/grasp.gif" alt="Brain-controlled prosthetics"></a><br><b>Brain-controlled prosthetics</b><br><sub>Turning thoughts into movement</sub></td>
-<td width="33%" align="center"><a href="https://github.com/yussefhallak/ipe"><img src="https://raw.githubusercontent.com/yussefhallak/ipe/main/img/hero.png" alt="Ipê"></a><br><b>Ipê</b><br><sub>A daily companion for Alzheimer's</sub></td>
+<td width="33%" align="center"><a href="https://github.com/yussefhallak/ipe"><img src="https://raw.githubusercontent.com/yussefhallak/ipe/main/img/card-dark.jpg" alt="Ipê"></a><br><b>Ipê</b><br><sub>A daily companion for Alzheimer's</sub></td>
 </tr>
 </table>
 
