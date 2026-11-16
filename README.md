@@ -4,6 +4,14 @@ Control and Automation Engineering student at UFSM, Brazil, and undergraduate re
 
 We're living through the fastest technological shift in history, and I intend to build at its edge.
 
+<table>
+<tr>
+<td width="33%" align="center"><a href="https://github.com/yussefhallak/arca"><img src="https://raw.githubusercontent.com/yussefhallak/arca/main/img/s7.jpg" alt="Arca"></a><br><b>Arca</b><br><sub>AI agents for flood rescue · 2nd worldwide</sub></td>
+<td width="33%" align="center"><a href="https://github.com/yussefhallak/bci-prosthetics"><img src="https://raw.githubusercontent.com/yussefhallak/bci-prosthetics/main/img/grasp.gif" alt="Brain-controlled prosthetics"></a><br><b>Brain-controlled prosthetics</b><br><sub>Turning thoughts into movement</sub></td>
+<td width="33%" align="center"><a href="https://github.com/yussefhallak/ipe"><img src="https://raw.githubusercontent.com/yussefhallak/ipe/main/img/hero.png" alt="Ipê"></a><br><b>Ipê</b><br><sub>A daily companion for Alzheimer's</sub></td>
+</tr>
+</table>
+
 ## Selected work
 
 - **[Arca](https://github.com/yussefhallak/arca)**: 2nd place worldwide, Open Agent Hackathon 2026. A multi-agent AI system for disaster response that coordinates flood rescue, with a human in charge of every decision. [Video](https://github.com/yussefhallak/arca/releases/download/v1.0/Arca_walkthrough.mp4).
