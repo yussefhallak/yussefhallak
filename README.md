@@ -1,6 +1,6 @@
 # Yussef Omar Hallak
 
-Control and Automation Engineering student at UFSM, Brazil, and undergraduate research fellow at the GARRA Robotics Lab. I build intelligent machines, from the embedded hardware to the AI that makes them act on their own.
+Mechatronics engineering student at UFSM, Brazil (Control and Automation Engineering), and undergraduate research fellow at the GARRA Robotics Lab. I build intelligent machines, from the embedded hardware to the AI that makes them act on their own.
 
 We're living through the fastest technological shift in history, and I intend to build at its edge.
 
